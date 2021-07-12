@@ -1,0 +1,36 @@
+body{
+     background-color: black;
+     color: rgb(238, 238, 238);
+}
+ 
+.logo{
+     height: 110px;
+     width: 55px;
+     margin-right: 100px;
+}
+
+.logo img{
+float: right;
+margin-right: 100%;
+  
+
+}
+
+
+
+
+
+
+a{
+display: block;
+  color: white;
+}
+
+.appw7.img{
+  float: right;
+}
+
+
+
+
+
